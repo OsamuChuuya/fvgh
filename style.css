@@ -1,0 +1,55 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    align-items: center;
+    color: black;
+}
+.nav{
+        background-color: black;
+        color: white;
+
+}
+.nav ul{
+    display: flex;
+    /* justify-content: space-evenly;
+    padding-bottom: 20px; */
+    list-style: none;
+    
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    /* margin-top: 40px;
+    margin-left: 40px; */
+}
+.span{
+  
+}
+.spa{
+    font-size: 88px;
+    font-weight: 500px;
+    text-align: center;
+    
+}
+.sec{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 23px;
+}
+.card{
+    width: 393px; ;
+    height: 396px;
+}
+
+
+
+.cartochki{
+    width: 1400px;
+    border: 2px solid white (255, 0, 0);
+    display: flex;
+    flex-wrap: wrap;
+}
